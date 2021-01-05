@@ -1,4 +1,4 @@
-### Hello there 👋
+### Welcome! 👋
 
 - 🌱 I’m currently learning Vue.js, new projects coming soon!
 - 💣 Meanwhile check out my latest games - <a href='https://github.com/eshux/Minesweeper'>Minesweeper</a> and <a href='https://github.com/eshux/2048'>2048</a>
