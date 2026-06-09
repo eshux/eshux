@@ -1,6 +1,6 @@
 ### Welcome! 👋
 
-In here you can mainly find some small projects created while learning and improving my skills in different technologies. For the past 2 years I have been putting my knowledge into more serious work projects, therefore not a lot of updates have been made here. 
+Here you'll find a collection of small projects I built while learning and developing my skills in different technologies. Over the past five years, I've been focused on more serious professional work, so there haven't been many updates to this repository.
 
 But feel free to check out some of my previous projects while learning React and Vue:
 - 💣 <a href='https://github.com/eshux/Minesweeper'>Minesweeper</a>
